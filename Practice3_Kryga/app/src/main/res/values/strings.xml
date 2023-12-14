@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Practice3_Kryga</string>
+    <string name="elderlyraccoon">elderlyRaccoon</string>
+    <string name="yourName">Ваше имя</string>
+    <string name="enterName">Введите ваше имя:</string>
+    <string name="NameHintofEnterName">Введите в это поле своё имя</string>
+</resources>
